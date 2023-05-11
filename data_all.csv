@@ -1,4 +1,4 @@
-Country Name,Country Code,Time,Time Code,CO2 (kt),CO2 (metric tons per capita),GDP per capita (current US$),"Population total",Renewable energy consumption (% of total final energy consumption) 
+Country Name,Country Code,Time,Time Code,CO2 (kt),CO2 (metric tons per capita),GDP per capita (current US$),Population total,Renewable energy consumption
 China,CHN,1990,YR1990,2173360,1.914542564,317.884673,1135185000,34.08361405
 China,CHN,1991,YR1991,2302180,2.000538765,333.1421454,1150780000,33.25847354
 China,CHN,1992,YR1992,2418180,2.07574444,366.4606923,1164970000,32.9312779
